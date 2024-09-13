@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# universidade-unes
-Um projeto de estudos feito somente com HTML5.
-=======
 # Universidade UNES - Site Institucional
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/angelo-sigo/universidade-unes)
